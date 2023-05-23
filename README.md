@@ -3,5 +3,5 @@ this a basic entry level program created using python and its libraries namely -
 the program asks for input from the user and based on these inputs predicts which type of iris the subject is.
 the inputs asked are petal length, petal width, sepal length and sepal width.
 
-Algorith used - Linear Regression
+Algorith used - Linear Regression,
 Accuracy - 95.05% 
